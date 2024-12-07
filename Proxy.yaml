@@ -39,6 +39,10 @@ payload:
   
   # > Tesla
   - DOMAIN-KEYWORD,tesla
+  
+  # > WAQI
+  - DOMAIN,api.waqi.info
+  - DOMAIN,aqi.aqicn.org
 
   # > Zooba
   # - USER-AGENT,battleroyale*
@@ -401,6 +405,7 @@ payload:
   - DOMAIN-SUFFIX,recaptcha.net
   - DOMAIN-SUFFIX,reddit.com
   - DOMAIN-SUFFIX,redditmedia.com
+  - DOMAIN-SUFFIX,redditstatic.com
   - DOMAIN-SUFFIX,reuters.com
   - DOMAIN-SUFFIX,rfi.fr
   - DOMAIN-SUFFIX,rileyguide.com
@@ -601,6 +606,7 @@ payload:
   - DOMAIN-SUFFIX,wsj.com
   - DOMAIN-SUFFIX,wsj.net
   - DOMAIN-SUFFIX,wwitv.com
+  - DOMAIN-SUFFIX,x.com
   - DOMAIN-SUFFIX,xanga.com
   - DOMAIN-SUFFIX,xclient.info
   - DOMAIN-SUFFIX,xda-developers.com
@@ -612,6 +618,7 @@ payload:
   - DOMAIN-SUFFIX,xvideos.com
   - DOMAIN-SUFFIX,yahoo.com
   - DOMAIN-SUFFIX,yahooapis.com
+  - DOMAIN-SUFFIX,yandex.com
   - DOMAIN-SUFFIX,yasni.co.uk
   - DOMAIN-SUFFIX,yastatic.net
   - DOMAIN-SUFFIX,ycombinator.com
@@ -643,6 +650,7 @@ payload:
   - DOMAIN-KEYWORD,instagram
   - DOMAIN-KEYWORD,twitter
   - DOMAIN-KEYWORD,whatsapp
+  - DOMAIN-KEYWORD,google
   - DOMAIN-SUFFIX,1e100.net
   - DOMAIN-SUFFIX,2mdn.net
   - DOMAIN-SUFFIX,abc.xyz
@@ -676,9 +684,11 @@ payload:
   - DOMAIN-SUFFIX,netmarble.com
   - DOMAIN-SUFFIX,nianticlabs.com
   - DOMAIN-SUFFIX,pinimg.com
+  - DOMAIN-SUFFIX,proton.me
   - DOMAIN-SUFFIX,pubnub.com
   - DOMAIN-SUFFIX,scdn.co
   - DOMAIN-SUFFIX,t.co
+  - DOMAIN-SUFFIX,tenor.com
   - DOMAIN-SUFFIX,tensorflow.org
   - DOMAIN-SUFFIX,toggleable.com
   - DOMAIN-SUFFIX,torproject.org
@@ -737,6 +747,9 @@ payload:
   - IP-CIDR,69.63.176.0/20,no-resolve
   - IP-CIDR,74.119.76.0/22,no-resolve
 
+  # > Google
+  - IP-CIDR,173.194.0.0/16,no-resolve
+  - IP-CIDR,74.125.0.0/16,no-resolve
 
   # > Kakao Talk
   - IP-CIDR,1.201.0.0/24,no-resolve

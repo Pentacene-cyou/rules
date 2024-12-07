@@ -15,33 +15,29 @@ payload:
   - DOMAIN-SUFFIX,oaistatic.com
   - DOMAIN-SUFFIX,oaiusercontent.com
 
-  - DOMAIN-SUFFIX,o33249.ingest.sentry.io
+  - DOMAIN,o33249.ingest.sentry.io
 
   # > Claude
   - DOMAIN-SUFFIX,anthropic.com
   - DOMAIN-SUFFIX,claude.ai
+  - DOMAIN-SUFFIX,claudeusercontent.com
 
   # > Copilot
-  - DOMAIN-SUFFIX,bing.com
-  - DOMAIN-SUFFIX,bingapis.com
-  - DOMAIN-SUFFIX,microsoft-falcon.io
-  - DOMAIN-SUFFIX,microsoftapp.net
-  - DOMAIN,api.msn.com
-  - DOMAIN,assets.msn.com
+  - DOMAIN-SUFFIX,githubcopilot.com
   - DOMAIN,copilot.microsoft.com
-  - DOMAIN,location.microsoft.com
-  - DOMAIN,login.microsoftonline.com
-  - DOMAIN,self.events.data.microsoft.com
 
   # > Gemini
   - DOMAIN-SUFFIX,gemini.google.com
-  - DOMAIN,apis.google.com
-  - DOMAIN,colab.research.google.com
-  - DOMAIN,content-developerprofiles-pa.googleapis.com
   - DOMAIN,generativelanguage.googleapis.com
+  - DOMAIN,proactivebackend-pa.googleapis.com
 
   # > Meta AI
   - DOMAIN-SUFFIX,meta.ai
 
   # > Perplexity AI
   - DOMAIN-SUFFIX,perplexity.ai
+
+  # > Siri
+  - DOMAIN,apple-relay.apple.com
+  - DOMAIN,apple-relay.cloudflare.com
+  - DOMAIN,guzzoni.smoot.apple.com

@@ -1,34 +1,5 @@
 # Ads in Video apps
 payload:
-  # > personal parts
-  - DOMAIN-SUFFIX,id6.me
-  - DOMAIN-SUFFIX,cmpassport.com
-  - DOMAIN-SUFFIX,opencloud.wostore.cn
-  - DOMAIN-SUFFIX,nishub1.10010.com
-  - DOMAIN-SUFFIX,onepass.geetest.com
-  - DOMAIN-SUFFIX,114dev.com
-  # > FanZha 
-  - IP-CIDR,182.43.124.6/32
-  - IP-CIDR,39.102.194.95/32
-  - DOMAIN-SUFFIX,m.sd.10086.cn
-  - DOMAIN-SUFFIX,group.sx.10086.cn
-  - IP-CIDR,183.213.92.2/32
-  - IP-CIDR,221.228.32.13/32
-  - DOMAIN-SUFFIX,www.js96110.com.cn
-  - IP-CIDR,111.44.246.131/32
-  - IP-CIDR,221.130.39.3/32
-  - DOMAIN-SUFFIX,sn.ac.10086.cn
-  - IP-CIDR,211.137.133.69/32
-  - IP-CIDR,112.15.232.43/32
-  - DOMAIN-SUFFIX,safemobile.govfz.com
-  - DOMAIN-SUFFIX,safe.govfz.com
-  - IP-CIDR,124.236.16.201/32
-  - DOMAIN-SUFFIX,shfzzx.cn
-  - IP-CIDR,111.56.127.216/32
-  - IP-CIDR,180.96.21.0/24
-  - IP-CIDR,183.213.92.2/32
-  - IP-CIDR,103.40.12.246/32
-  - IP-CIDR,115.236.76.246/32
   # > iqiyi & pps
   - DOMAIN-SUFFIX,a.ckm.iqiyi.com
   - DOMAIN-SUFFIX,ad.m.iqiyi.com
@@ -7691,7 +7662,6 @@ payload:
   - DOMAIN-SUFFIX,wtpn.twenga.co.uk
   - DOMAIN-SUFFIX,wtpn.twenga.de
   - DOMAIN-SUFFIX,wtrace.cmgame.com
-  - DOMAIN-SUFFIX,wtradv.market.xiaomi.com
   - DOMAIN-SUFFIX,wu65.com
   - DOMAIN-SUFFIX,wudang05.com
   - DOMAIN-SUFFIX,wuliao.epro.sogou.com
@@ -8242,10 +8212,6 @@ payload:
   # - URL-REGEX,https:\/\/app\.bilibili\.com\/x\/v2\/search\/(defaultword|hot|recommend|resource)
   # - URL-REGEX,https:\/\/app\.bilibili\.com\/x\/v2\/rank\.*rid=(168|5)
   # - URL-REGEX,https:\/\/api\.bilibili\.com\/pgc\/season\/rank\/cn
-
-  # > OpenAI
-  - DOMAIN,o33249.ingest.sentry.io
-  - DOMAIN,openaicom.imgix.net
 
   # > Didi
   # - URL-REGEX,https:\/\/img-ys011\.didistatic\.com\/static\/ad_oss\/image-\d{4}-\d{4}\/
