@@ -1,0 +1,8 @@
+payload:
+  - DST-PORT,22
+  - DOMAIN-KEYWORD,cloudflare
+  - IP-CIDR6,2606:4700:4700::1001/128,no-resolve
+  - IP-CIDR6,2606:4700:4700::1111/128,no-resolve
+  - IP-CIDR6,2001:4860:4860::8844/128,no-resolve
+  - IP-CIDR6,2001:4860:4860::8888/128,no-resolve
+  - DOMAIN-SUFFIX,speech.platform.bing.com

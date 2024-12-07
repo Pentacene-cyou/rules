@@ -1,0 +1,21 @@
+payload:
+  - DOMAIN-KEYWORD,pincong
+  - DOMAIN-SUFFIX,pincong.rocks
+  - DOMAIN-SUFFIX,epochtimes
+  - DOMAIN-SUFFIX,epochtimes.com
+  - DOMAIN-KEYWORD,nostr
+  - DOMAIN-KEYWORD,damus
+  - DOMAIN-SUFFIX,freerelay.xyz
+  - DOMAIN-SUFFIX,relayable.org
+  - DOMAIN-SUFFIX,nos.lol
+  - DOMAIN-SUFFIX,relay.snort.social
+  - DOMAIN-SUFFIX,no.str.cr
+  - DOMAIN-SUFFIX,relay.orangepill.dev
+  - DOMAIN-SUFFIX,relay.nostrati.com
+  - DOMAIN-SUFFIX,offchain.pub
+  - DOMAIN-SUFFIX,relay.current.fyi
+  - DOMAIN-SUFFIX,booger.pro
+  - DOMAIN-SUFFIX,bitcoiner.social
+  - DOMAIN-SUFFIX,relay.orangepill.dev
+  - DOMAIN-SUFFIX,brb.io
+  - DOMAIN-SUFFIX,booger.pro
