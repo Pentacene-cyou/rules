@@ -25,6 +25,7 @@ payload:
   # > Copilot
   - DOMAIN-SUFFIX,githubcopilot.com
   - DOMAIN,copilot.microsoft.com
+  - DOMAIN-SUFFIX,bing.com
 
   # > Gemini
   - DOMAIN-SUFFIX,gemini.google.com
