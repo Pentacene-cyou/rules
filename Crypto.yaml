@@ -18,6 +18,7 @@ payload:
   - DOMAIN-SUFFIX,gemini.com
   - DOMAIN-SUFFIX,korbit.co.kr
   - DOMAIN-SUFFIX,kraken.com
+  - DOMAIN-SUFFIX,kraken.zendesk.com
   - DOMAIN-SUFFIX,kucoin.com
   - DOMAIN-SUFFIX,liquid.com
   - DOMAIN-SUFFIX,poloniex.com
